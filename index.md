@@ -4,3 +4,4 @@
 #### this is example H4
 ##### this is example H5
 ###### this is example H6
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
